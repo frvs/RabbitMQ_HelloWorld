@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NewTask",
+    "\\Receive",
+    "\\Send",
+    "\\Worker"
+  ],
+  "SelectedNode": "\\Worker\\Worker.cs",
+  "PreviewInSolutionExplorer": false
+}
